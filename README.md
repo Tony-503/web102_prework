@@ -27,6 +27,7 @@ Here's a walkthrough of implemented features:
 
 <!-- <img src='assets/Prework_Video_TonyH.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 <a href="https://sendvid.com/hzlqiv7r" target="_blank">Check out the Video Walkthrough</a>
+[Check out the Video Walkthrough](https://sendvid.com/hzlqiv7r)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
