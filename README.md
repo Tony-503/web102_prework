@@ -26,10 +26,7 @@ add a search var to make seaching for individual game easy for the user.
 Here's a walkthrough of implemented features:
 
 <!-- <img src='assets/Prework_Video_TonyH.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-<video width="600" controls>
-  <source src="assets/Prework_Video_TonyH.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://sendvid.com/hzlqiv7r" target="_blank">Check out the Video Walkthrough</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
